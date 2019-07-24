@@ -1,6 +1,7 @@
 ## タイトル
 
-![](https://dotinstall.com/img/logo_200×200.png)
+![logo
+image](https://dotinstall.com/img/logo_200×200.png)
 
 ---
 
