@@ -1,7 +1,8 @@
 ## タイトル
 
+![](https://dotinstall.com/img/logo_200×200.png)
 
----?=png.png
+---
 
 ##### 使用するプラットフォーム
 
