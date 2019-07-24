@@ -27,3 +27,7 @@ slide-number: true
 
 #コードのシンタックスハイライトの設定
 highlight : monokai
+
+
+#スライドのループ設定
+loop : true
