@@ -1,9 +1,7 @@
 ## タイトル
 
-![logo
-image](png.png)
 
----
+---?image=png.png
 
 ##### 使用するプラットフォーム
 
