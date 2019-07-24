@@ -1,7 +1,7 @@
 ## タイトル
 
 ![logo
-image](http://dotinstall.com/img/logo_200×200.png)
+image](png.png)
 
 ---
 
