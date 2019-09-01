@@ -1,7 +1,7 @@
 ---?image=img.png
 
 
-## タイトル
+## New Super
 
 
 ---
